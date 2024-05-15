@@ -5,6 +5,7 @@ Esta herramienta unifica distintas tareas de pentesting, tanto de análisis de v
 Ejecución de la herramienta Nmap con distintas variantes.
 Ejecución de Curl.
 Automatización de búsquedas usando Google Dorks.
+Geolocalización de Ip's.
 
 ## Fallos
 **Estilo del NoteBook en el Main_Window**: Se puede cambiar el estilo de toda la aplicación importando el archivo App_Styles, pero dicho estilo no se aplica en el Notebook creado en la ventana Main_Window ni en las pestañas del mismo.
