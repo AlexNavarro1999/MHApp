@@ -1,5 +1,10 @@
 # MHApp
-Aplicación desarrollada en Python usando la librería Tkinter para la GUI y con una BBDD SQL
+Aplicación desarrollada en Python usando la librería Tkinter para la GUI y con una BBDD SQL.
+Esta herramienta unifica distintas tareas de pentesting, tanto de análisis de vulnerabilidades como de OSINT.
+#### Funcionalidades implementadas
+Ejecución de la herramienta Nmap con distintas variantes.
+Ejecución de Curl.
+Automatización de búsquedas usando Google Dorks.
 
 ## Fallos
 **Estilo del NoteBook en el Main_Window**: Se puede cambiar el estilo de toda la aplicación importando el archivo App_Styles, pero dicho estilo no se aplica en el Notebook creado en la ventana Main_Window ni en las pestañas del mismo.
