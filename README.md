@@ -8,7 +8,11 @@ Automatización de búsquedas usando Google Dorks.
 Geolocalización de Ip's.
 
 ## Fallos
-**Estilo del NoteBook en el Main_Window**: Se puede cambiar el estilo de toda la aplicación importando el archivo App_Styles, pero dicho estilo no se aplica en el Notebook creado en la ventana Main_Window ni en las pestañas del mismo.
+### Estilo del NoteBook en el Main_Window
+Se puede cambiar el estilo de toda la aplicación importando el archivo App_Styles, pero dicho estilo no se aplica en el Notebook creado en la ventana Main_Window ni en las pestañas del mismo.
+### Control de los mensajes de error
+Controlar todos los mensajes de error para que aparezcan en la interfaz y no por consola.
+
 
 ## Cosas a implementar
 ### Mejoras en la seguridad
