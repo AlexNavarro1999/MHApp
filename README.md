@@ -14,4 +14,4 @@ Usando la libería Canva (o la más eficiente) integrar la funcionalidad de gene
 ### Implementación de la funcionalidad "Social Media"
 A través de la librería Request poder obtener información de usuarios en distintas RRSS usando el email.
 ### Refactorización de código
-Revisión general de todo el código, pero centrándose en el Main_Window y la generación de pestañas dinámicas a base de imports dinámicos.
+Revisión general de todo el código, pero centrándose en el Main_Window y la generación dinámica de pestañas a partir de imports dinámicos.
